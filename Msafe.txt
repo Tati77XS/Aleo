@@ -1,0 +1,20 @@
+1.What is the minimum amount of APT you should have in each wallet before creating your multi-sig wallet?
+0.1
+2.What is the full meaning of MSafe?
+Momentum Safe
+3.How many wallets do you need minimum to create an MSafe wallet?
+2
+4.
+5.When receiving/sending NFTs, what 3 things must you do in order for it to work?
+D
+6.What is a multi-signature wallet?
+C
+7.One way though which MSafe can help founders is by:
+A
+8. What wallets can I use with MSafe?
+Pontem
+9. What does an MSafe signing threshold mean?
+A
+10. А
+11.True
+
